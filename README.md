@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @N4NT3N4IN4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-N4NT3N4IN4/N4NT3N4IN4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+&termux-setup-storage
+&apt update
+&apt upgrade
+&apt install git
+&apt install python
+&pip install bs4
+&pip install mechanize
+&pip install requests
+&pip install futures
+&rm -rf CR4ck
+&git clone https://github.com/N4NT3N4IN4/CR4ck.git
+&cd CR4ck
+&python cr4ck.py
